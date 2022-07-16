@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'MurrddoL's Bolg',
+  name: 'MurrddoL Bolg',
   domain: 'blog.murrddol.com',
   author: 'Murrddo Lin',
 
